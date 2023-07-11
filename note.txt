@@ -1,0 +1,15 @@
+ALAN AI NOTES 
+time:23:00
+error:
+
+BEGINING
+*create a react application and import alan ai 
+create  react app - >[npx create-react-app myApp( or./)]
+import alan ai -> 
+use JSmastery Free trial
+Create an empty project called [news_reader_app]
+
+ HOW TO GET THE ALAN SDK KEY 
+ -Go to your integration and copy the sdk key
+ -useEffect create the alan button right there
+ -We are going to use  [newsapi.org]
