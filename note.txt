@@ -1,5 +1,5 @@
 ALAN AI NOTES 
-time:23:00
+time:38:40
 error:
 
 BEGINING
@@ -13,3 +13,4 @@ Create an empty project called [news_reader_app]
  -Go to your integration and copy the sdk key
  -useEffect create the alan button right there
  -We are going to use  [newsapi.org]
+ -they installed react snippet extension which i already have
