@@ -1,6 +1,6 @@
 ALAN AI NOTES 
-time:38:40
-error:
+time:53:43
+error:38 (source was faulty in my alan code)
 
 BEGINING
 *create a react application and import alan ai 
@@ -14,3 +14,5 @@ Create an empty project called [news_reader_app]
  -useEffect create the alan button right there
  -We are going to use  [newsapi.org]
  -they installed react snippet extension which i already have
+
+ *USE OF MATERIAL UI CORE
